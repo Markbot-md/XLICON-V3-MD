@@ -2,20 +2,20 @@
   "name": "Xlicon-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
-  "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
+  "logo": "https://telegra.ph/file/b7385af45a0c1791dfd25.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/Markbot-md/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "8132770719"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "OOFICIAL_KY"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -35,22 +35,22 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "Official"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "OFFICIAL_KY"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   OFFICIAL_KY"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "8132770719"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
@@ -65,7 +65,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
      "AUTO_BLOCK": {
       "description": "Set A Contary Code To Auto banned if u wanna",
