@@ -15,7 +15,7 @@
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "OOFICIAL_KY"
+      "value": "OFFICIAL_KY"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
